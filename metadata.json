@@ -1,0 +1,6 @@
+{
+  "name": "ShopVerse E-Commerce",
+  "description": "A full-featured e-commerce platform featuring 3D product visualizer decks, an AI shopping assistant chatbot, interactive reviews, coupon engines, order tracking timeline, seller/admin portals, and solutions for real-world retail problems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
